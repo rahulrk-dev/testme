@@ -4,7 +4,9 @@ Testing CLI tool to test javascript apps
 
 ## Getting Started
 
-```sh
+Install testme using this
+
+```
 	git clone https://github.com/DevTMK/testme.git
 	cd testme
 	npm install
