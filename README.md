@@ -42,7 +42,7 @@ test('adds 1 + 2 to equal 3', () => {
 
 Add the following section to your package.json:
 
-```json
+```jsonc
 "scripts": {
 	// ...
 	"test": "testme"
