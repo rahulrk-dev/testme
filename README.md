@@ -49,7 +49,7 @@ Add the following section to your package.json:
 }
 ```
 
-Finally, run `yarn test` or `npm run test` and it will print this message:
+Finally, run `npm run test` or `yarn test` and it will print this message:
 
 ```bash
  RUNS  add.test.js
